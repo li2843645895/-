@@ -144,3 +144,7 @@
 		System.out.println("本学年你需要缴学费额为：" + feeSum1);  
 	}  
     重写接口Studentmange。java中的feeSearch()方法,输出学生本学年所缴学费  
+## 五·实验结果
+
+## 六·实验感想
+
